@@ -18,6 +18,7 @@ public class Grachi {
         // TODO code application logic here                
         System.out.print("Hello");
         System.out.print("Hello");
+        System.out.print(":'v");
 
     }
     
